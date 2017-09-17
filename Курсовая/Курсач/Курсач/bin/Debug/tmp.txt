@@ -1,0 +1,18 @@
+1
+AR-15
+16
+256
+18,7
+intel core i5
+185060
+29000
+true
+2
+MacBook
+32
+512
+15,3
+intel core i7
+185060
+60000
+false

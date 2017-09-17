@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfUsers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Users>
+    <password>-467367490</password>
+    <login>admin</login>
+    <salt>123</salt>
+  </Users>
+  <Users>
+    <password>-1330406767</password>
+    <login>ф</login>
+    <salt>56@</salt>
+  </Users>
+  <Users>
+    <password>-1706381349</password>
+    <login>ц</login>
+    <salt>1?(</salt>
+  </Users>
+</ArrayOfUsers>

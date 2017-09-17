@@ -1,0 +1,39 @@
+c:\users\роман\documents\visual studio 2015\Projects\Курсач\Курсач\bin\Debug\Курсач.exe.config
+c:\users\роман\documents\visual studio 2015\Projects\Курсач\Курсач\bin\Debug\Курсач.exe
+c:\users\роман\documents\visual studio 2015\Projects\Курсач\Курсач\bin\Debug\Курсач.pdb
+c:\users\роман\documents\visual studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.csprojResolveAssemblyReference.cache
+c:\users\роман\documents\visual studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+c:\users\роман\documents\visual studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.Cache
+c:\users\роман\documents\visual studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.exe
+c:\users\роман\documents\visual studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\Роман\Documents\Visual Studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.AddForm.resources
+C:\Users\Роман\Documents\Visual Studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.FormForSave.resources
+C:\Users\Роман\Documents\Visual Studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.Edit_Show.resources
+C:\Users\153049\Downloads\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\153049\Downloads\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\153049\Downloads\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.csprojResolveAssemblyReference.cache
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.AddForm.resources
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.Edit_Show.resources
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.FormForSave.resources
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.Cache
+C:\Users\Роман\Desktop\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\Роман\Desktop\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Роман\Desktop\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.AddForm.resources
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.Edit_Show.resources
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.FormForSave.resources
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\Роман\Desktop\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.Cache
+C:\Users\Роман\Documents\Visual Studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.MainForm.resources
+C:\Users\Роман\Documents\Visual Studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.CheckUsers.resources
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.CheckUsers.resources
+C:\Users\153049\Downloads\Курсач\Курсач\obj\Debug\Курсач.MainForm.resources
+C:\Users\Роман\Documents\Visual Studio 2015\Projects\Курсач\Курсач\obj\Debug\Курсач.Registration.resources

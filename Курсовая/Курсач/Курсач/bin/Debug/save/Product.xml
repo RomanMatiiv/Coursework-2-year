@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <LaptopID>1</LaptopID>
+    <LaptopName>Lenovo Zink Pad</LaptopName>
+    <RAM>16</RAM>
+    <Capacity>256</Capacity>
+    <MonotorSize>18.7</MonotorSize>
+    <Processor>intel core i5</Processor>
+    <BatteryCapacity>185060</BatteryCapacity>
+    <Price>29000</Price>
+    <Availability>true</Availability>
+  </Product>
+  <Product>
+    <LaptopID>2</LaptopID>
+    <LaptopName>MacBook Pro</LaptopName>
+    <RAM>32</RAM>
+    <Capacity>512</Capacity>
+    <MonotorSize>15.3</MonotorSize>
+    <Processor>intel core i7</Processor>
+    <BatteryCapacity>185060</BatteryCapacity>
+    <Price>60000</Price>
+    <Availability>false</Availability>
+  </Product>
+  <Product>
+    <LaptopID>3</LaptopID>
+    <LaptopName>Samsung</LaptopName>
+    <RAM>16</RAM>
+    <Capacity>256</Capacity>
+    <MonotorSize>10</MonotorSize>
+    <Processor>intel core</Processor>
+    <BatteryCapacity>20000</BatteryCapacity>
+    <Price>40000</Price>
+    <Availability>true</Availability>
+  </Product>
+  <Product>
+    <LaptopID>4</LaptopID>
+    <LaptopName>Xiaomi Air 13 Silver</LaptopName>
+    <RAM>16</RAM>
+    <Capacity>256</Capacity>
+    <MonotorSize>13.3</MonotorSize>
+    <Processor>Intel core i-5</Processor>
+    <BatteryCapacity>20000</BatteryCapacity>
+    <Price>35000</Price>
+    <Availability>true</Availability>
+  </Product>
+  <Product>
+    <LaptopID>5</LaptopID>
+    <LaptopName>а</LaptopName>
+    <RAM>1</RAM>
+    <Capacity>1</Capacity>
+    <MonotorSize>1</MonotorSize>
+    <Processor>к</Processor>
+    <BatteryCapacity>1</BatteryCapacity>
+    <Price>1</Price>
+    <Availability>true</Availability>
+  </Product>
+</ArrayOfProduct>
